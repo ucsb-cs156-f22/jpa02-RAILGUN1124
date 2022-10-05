@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f22/jpa02-RAILGUN1124
 
-On Heroku: https://cs156-f22-jpa02-lawrence-chen.herokuapp.com
+On Heroku: https://jpa02-lawrence-chen.herokuapp.com/
 
 
 # About this repo
